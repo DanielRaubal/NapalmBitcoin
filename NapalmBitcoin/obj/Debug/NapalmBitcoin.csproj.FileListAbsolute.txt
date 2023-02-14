@@ -1,0 +1,13 @@
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\NapalmBitcoin.exe.config
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\NapalmBitcoin.exe
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\NapalmBitcoin.pdb
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.Form1.resources
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.Properties.Resources.resources
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.csproj.GenerateResource.cache
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.csproj.CoreCompileInputs.cache
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.exe
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.pdb
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\HtmlAgilityPack.dll
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\HtmlAgilityPack.pdb
+E:\NapalmBitcoin\NapalmBitcoin\bin\Debug\HtmlAgilityPack.xml
+E:\NapalmBitcoin\NapalmBitcoin\obj\Debug\NapalmBitcoin.csproj.AssemblyReference.cache
